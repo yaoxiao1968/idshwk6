@@ -1,0 +1,1031 @@
+Date and time:Mon Apr 27 22:59:47 EDT 2020
+
+os version:Ubuntu 18.04.3 LTS \n \l
+
+kernel name:Linux yaoxiao-virtual-machine 5.0.0-25-generic #26~18.04.1-Ubuntu SMP Thu Aug 1 13:51:02 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
+hardware infomation:
+cpuinfo:processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 142
+model name	: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0x8e
+cpu MHz		: 2712.007
+cache size	: 3072 KB
+physical id	: 0
+siblings	: 1
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs
+bogomips	: 5424.01
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management:
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 142
+model name	: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+stepping	: 9
+microcode	: 0x8e
+cpu MHz		: 2712.007
+cache size	: 3072 KB
+physical id	: 2
+siblings	: 1
+core id		: 0
+cpu cores	: 1
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon nopl xtopology tsc_reliable nonstop_tsc cpuid pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch cpuid_fault invpcid_single pti ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xsaves arat
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs
+bogomips	: 5424.01
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 43 bits physical, 48 bits virtual
+power management:
+meminfo:MemTotal:        1693972 kB
+MemFree:          129400 kB
+MemAvailable:     260540 kB
+Buffers:           24784 kB
+Cached:           219212 kB
+SwapCached:         2032 kB
+Active:           650920 kB
+Inactive:         539812 kB
+Active(anon):     530156 kB
+Inactive(anon):   424668 kB
+Active(file):     120764 kB
+Inactive(file):   115144 kB
+Unevictable:          32 kB
+Mlocked:              32 kB
+SwapTotal:        969960 kB
+SwapFree:         948032 kB
+Dirty:                16 kB
+Writeback:             0 kB
+AnonPages:        945380 kB
+Mapped:            58784 kB
+Shmem:              8032 kB
+KReclaimable:      50964 kB
+Slab:             108772 kB
+SReclaimable:      50964 kB
+SUnreclaim:        57808 kB
+KernelStack:       10880 kB
+PageTables:        35180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     1816944 kB
+Committed_AS:    4162944 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:            38912 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      149376 kB
+DirectMap2M:     1624064 kB
+DirectMap1G:           0 kB
+
+uptime: 23:17:38 up 20 min,  1 user,  load average: 0.81, 0.93, 0.72
+
+service information: [ + ]  acpid
+ [ - ]  alsa-utils
+ [ - ]  anacron
+ [ + ]  apache-htcacheclean
+ [ + ]  apache2
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  avahi-daemon
+ [ - ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ - ]  dns-clean
+ [ + ]  gdm3
+ [ + ]  grub-common
+ [ - ]  hwclock.sh
+ [ + ]  irqbalance
+ [ + ]  kerneloops
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  mysql
+ [ + ]  network-manager
+ [ + ]  networking
+ [ + ]  open-vm-tools
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ - ]  snort
+ [ + ]  speech-dispatcher
+ [ - ]  spice-vdagent
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  whoopsie
+ [ - ]  x11-common
+
+nic information:ens33: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.214.131  netmask 255.255.255.0  broadcast 192.168.214.255
+        inet6 fe80::3d28:33d1:28c8:9b3  prefixlen 64  scopeid 0x20<link>
+        ether 00:0c:29:70:cf:ca  txqueuelen 1000  (以太网)
+        RX packets 327940  bytes 466546748 (466.5 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 33496  bytes 2644062 (2.6 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (本地环回)
+        RX packets 226  bytes 19280 (19.2 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 226  bytes 19280 (19.2 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+ruote information:内核 IP 路由表
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+0.0.0.0         192.168.214.2   0.0.0.0         UG        0 0          0 ens33
+169.254.0.0     0.0.0.0         255.255.0.0     U         0 0          0 ens33
+192.168.214.0   0.0.0.0         255.255.255.0   U         0 0          0 ens33
+
+arp information:_gateway (192.168.214.2) 位于 00:50:56:ee:47:fd [ether] 在 ens33
+? (192.168.214.254) 位于 00:50:56:f7:16:81 [ether] 在 ens33
+
+information of processes:USER        PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root          1  0.5  0.3 160152  6104 ?        -    22:57   0:07 /sbin/init splash HOME=/ init=/sbin/init NETWORK_SKIP_ENSLAVED= recovery= TERM=linux drop_caps= BOOT_IMAGE=/boot/vmlinuz-5.0.0-25-generic PATH=/sbin:/usr/sbin:/bin:/usr/bin PWD=/ rootmnt=/root
+root          -  0.5    -      -     - -        Ss   22:57   0:07 -
+root          2  0.0  0.0      0     0 ?        -    22:57   0:00 [kthreadd]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root          3  0.0  0.0      0     0 ?        -    22:57   0:00 [rcu_gp]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root          4  0.0  0.0      0     0 ?        -    22:57   0:00 [rcu_par_gp]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root          6  0.0  0.0      0     0 ?        -    22:57   0:00 [kworker/0:0H-kb]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root          8  0.0  0.0      0     0 ?        -    22:57   0:00 [mm_percpu_wq]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root          9  0.0  0.0      0     0 ?        -    22:57   0:00 [ksoftirqd/0]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         10  0.3  0.0      0     0 ?        -    22:57   0:05 [rcu_sched]
+root          -  0.3    -      -     - -        I    22:57   0:05 -
+root         11  0.0  0.0      0     0 ?        -    22:57   0:00 [migration/0]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         12  0.0  0.0      0     0 ?        -    22:57   0:00 [idle_inject/0]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         14  0.0  0.0      0     0 ?        -    22:57   0:00 [cpuhp/0]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         15  0.0  0.0      0     0 ?        -    22:57   0:00 [cpuhp/1]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         16  0.0  0.0      0     0 ?        -    22:57   0:00 [idle_inject/1]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         17  0.0  0.0      0     0 ?        -    22:57   0:00 [migration/1]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         18  0.1  0.0      0     0 ?        -    22:57   0:01 [ksoftirqd/1]
+root          -  0.1    -      -     - -        S    22:57   0:01 -
+root         20  0.0  0.0      0     0 ?        -    22:57   0:00 [kworker/1:0H-kb]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         21  0.0  0.0      0     0 ?        -    22:57   0:00 [kdevtmpfs]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         22  0.0  0.0      0     0 ?        -    22:57   0:00 [netns]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         23  0.0  0.0      0     0 ?        -    22:57   0:00 [rcu_tasks_kthre]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         24  0.0  0.0      0     0 ?        -    22:57   0:00 [kauditd]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         25  0.0  0.0      0     0 ?        -    22:57   0:00 [kworker/0:2-eve]
+root          -  0.0    -      -     - -        I    22:57   0:00 -
+root         26  0.0  0.0      0     0 ?        -    22:57   0:00 [khungtaskd]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         27  0.0  0.0      0     0 ?        -    22:57   0:00 [oom_reaper]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         28  0.0  0.0      0     0 ?        -    22:57   0:00 [writeback]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         29  0.0  0.0      0     0 ?        -    22:57   0:00 [kcompactd0]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         30  0.0  0.0      0     0 ?        -    22:57   0:00 [ksmd]
+root          -  0.0    -      -     - -        SN   22:57   0:00 -
+root         31  0.0  0.0      0     0 ?        -    22:57   0:00 [khugepaged]
+root          -  0.0    -      -     - -        SN   22:57   0:00 -
+root         32  0.0  0.0      0     0 ?        -    22:57   0:00 [crypto]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         33  0.0  0.0      0     0 ?        -    22:57   0:00 [kintegrityd]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         34  0.0  0.0      0     0 ?        -    22:57   0:00 [kblockd]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         35  0.1  0.0      0     0 ?        -    22:57   0:02 [kworker/1:1-mm_]
+root          -  0.1    -      -     - -        I    22:57   0:02 -
+root         37  0.0  0.0      0     0 ?        -    22:57   0:00 [tpm_dev_wq]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         38  0.0  0.0      0     0 ?        -    22:57   0:00 [ata_sff]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         39  0.0  0.0      0     0 ?        -    22:57   0:00 [md]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         40  0.0  0.0      0     0 ?        -    22:57   0:00 [edac-poller]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         41  0.0  0.0      0     0 ?        -    22:57   0:00 [devfreq_wq]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         42  0.0  0.0      0     0 ?        -    22:57   0:00 [watchdogd]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root         46  0.1  0.0      0     0 ?        -    22:57   0:02 [kswapd0]
+root          -  0.1    -      -     - -        S    22:57   0:02 -
+root         47  0.0  0.0      0     0 ?        -    22:57   0:00 [kworker/u257:0]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root         48  0.0  0.0      0     0 ?        -    22:57   0:00 [ecryptfs-kthrea]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        137  0.0  0.0      0     0 ?        -    22:57   0:00 [kthrotld]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        138  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/24-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        139  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/25-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        140  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/26-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        141  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/27-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        142  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/28-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        143  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/29-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        144  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/30-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        145  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/31-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        146  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/32-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        147  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/33-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        148  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/34-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        149  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/35-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        150  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/36-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        151  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/37-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        152  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/38-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        153  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/39-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        154  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/40-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        155  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/41-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        156  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/42-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        157  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/43-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        158  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/44-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        159  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/45-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        160  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/46-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        161  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/47-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        162  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/48-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        163  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/49-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        164  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/50-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        165  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/51-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        166  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/52-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        167  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/53-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        168  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/54-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        169  0.0  0.0      0     0 ?        -    22:57   0:00 [irq/55-pciehp]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        170  0.0  0.0      0     0 ?        -    22:57   0:00 [acpi_thermal_pm]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        171  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_0]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        172  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_0]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        173  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_1]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        174  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_1]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        177  0.0  0.0      0     0 ?        -    22:57   0:00 [ipv6_addrconf]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        188  0.0  0.0      0     0 ?        -    22:57   0:00 [kstrp]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        208  0.0  0.0      0     0 ?        -    22:57   0:00 [charger_manager]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        244  0.0  0.0      0     0 ?        -    22:57   0:00 [mpt_poll_0]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        245  0.0  0.0      0     0 ?        -    22:57   0:00 [mpt/0]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        246  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_2]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        247  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_2]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        248  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_3]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        249  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_3]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        250  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_4]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        251  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_4]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        252  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_5]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        253  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_5]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        254  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_6]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        255  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_6]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        256  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_7]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        257  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_7]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        258  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_8]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        259  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_8]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        260  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_9]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        261  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_9]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        262  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_10]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        263  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_10]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        264  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_11]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        265  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_11]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        266  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_12]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        267  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_12]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        268  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_13]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        269  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_13]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        270  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_14]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        271  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_14]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        272  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_15]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        273  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_15]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        274  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_16]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        275  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_16]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        276  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_17]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        277  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_17]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        278  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_18]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        279  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_18]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        280  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_19]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        281  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_19]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        282  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_20]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        283  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_20]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        284  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_21]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        285  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_21]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        286  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_22]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        287  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_22]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        288  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_23]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        289  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_23]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        290  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_24]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        291  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_24]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        292  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_25]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        293  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_25]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        294  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_26]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        295  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_26]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        296  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_27]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        297  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_27]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        298  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_28]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        299  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_28]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        300  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_29]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        301  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_29]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        302  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_30]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        303  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_30]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        304  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_31]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        305  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_31]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        330  0.0  0.0      0     0 ?        -    22:57   0:00 [kworker/u256:29]
+root          -  0.0    -      -     - -        I    22:57   0:00 -
+root        332  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_eh_32]
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        333  0.0  0.0      0     0 ?        -    22:57   0:00 [scsi_tmf_32]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        334  0.5  0.0      0     0 ?        -    22:57   0:07 [kworker/1:1H-kb]
+root          -  0.5    -      -     - -        I<   22:57   0:07 -
+root        335  0.5  0.0      0     0 ?        -    22:57   0:07 [kworker/0:1H-kb]
+root          -  0.5    -      -     - -        I<   22:57   0:07 -
+root        358  1.4  0.0      0     0 ?        -    22:57   0:20 [jbd2/sda1-8]
+root          -  1.4    -      -     - -        S    22:57   0:20 -
+root        359  0.0  0.0      0     0 ?        -    22:57   0:00 [ext4-rsv-conver]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        405  0.0  0.5  95044  8644 ?        -    22:57   0:00 /lib/systemd/systemd-journald LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify LISTEN_PID=405 LISTEN_FDS=4 LISTEN_FDNAMES=systemd-journald-dev-log.socket:systemd-journald.socket:systemd-journald.socket:systemd-journald-audit.socket WATCHDOG_PID=405 WATCHDOG_USEC=180000000 INVOCATION_ID=2d6d61f45dd0434c89077bac0fd148f4
+root          -  0.0    -      -     - -        S<s  22:57   0:00 -
+root        411  0.0  0.1  34400  2520 ?        -    22:57   0:00 /lib/systemd/systemd-udevd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify LISTEN_PID=411 LISTEN_FDS=2 LISTEN_FDNAMES=systemd-udevd-kernel.socket:systemd-udevd-control.socket WATCHDOG_PID=411 WATCHDOG_USEC=180000000 INVOCATION_ID=e193121384db44ab8432fae8a8b841ff JOURNAL_STREAM=9:24825
+root          -  0.0    -      -     - -        Ss   22:57   0:00 -
+root        412  0.1  0.0      0     0 ?        -    22:57   0:01 [irq/16-vmwgfx]
+root          -  0.1    -      -     - -        S    22:57   0:01 -
+root        413  0.0  0.0      0     0 ?        -    22:57   0:00 [ttm_swap]
+root          -  0.0    -      -     - -        I<   22:57   0:00 -
+root        415  0.0  0.0      0     0 ?        -    22:57   0:00 [loop0]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        418  0.0  0.0      0     0 ?        -    22:57   0:00 [loop1]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        420  0.0  0.0      0     0 ?        -    22:57   0:00 [loop2]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        422  0.0  0.0      0     0 ?        -    22:57   0:00 [loop3]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        425  0.0  0.0      0     0 ?        -    22:57   0:00 [loop4]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        433  0.0  0.0      0     0 ?        -    22:57   0:00 [loop5]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        439  0.0  0.0      0     0 ?        -    22:57   0:00 [loop6]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        445  0.0  0.0      0     0 ?        -    22:57   0:00 [loop7]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        451  0.0  0.0      0     0 ?        -    22:57   0:00 [loop8]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        458  0.0  0.0      0     0 ?        -    22:57   0:00 [loop10]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        460  0.0  0.0      0     0 ?        -    22:57   0:00 [loop11]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        465  0.0  0.0      0     0 ?        -    22:57   0:00 [loop12]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        472  0.0  0.0      0     0 ?        -    22:57   0:00 [loop13]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        484  0.0  0.0      0     0 ?        -    22:57   0:00 [loop14]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        503  0.0  0.0      0     0 ?        -    22:57   0:00 [loop15]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        510  0.0  0.0      0     0 ?        -    22:57   0:00 [loop16]
+root          -  0.0    -      -     - -        S<   22:57   0:00 -
+root        536  0.0  0.0 158784    80 ?        -    22:57   0:00 vmware-vmblock-fuse /run/vmblock-fuse -o rw,subtype=vmware-vmblock,default_permissions,allow_other,dev,suid LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 HOME=/root LC_MONETARY=en_CA.UTF-8 JOURNAL_STREAM=9:33582 INVOCATION_ID=0e9cca6a73f2450195bd82cb601c91e8 LC_ADDRESS=en_CA.UTF-8 LANG=zh_CN.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 PWD=/ LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+systemd+    588  0.0  0.1  70624  2284 ?        -    22:57   0:00 /lib/systemd/systemd-resolved LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify WATCHDOG_PID=588 WATCHDOG_USEC=180000000 HOME=/run/systemd/resolve LOGNAME=systemd-resolve USER=systemd-resolve INVOCATION_ID=712b6441b10e4a5bb4582693dabaac33 JOURNAL_STREAM=9:36106
+systemd+      -  0.0    -      -     - -        Ss   22:57   0:00 -
+systemd+    589  0.0  0.0 146108     8 ?        -    22:57   0:00 /lib/systemd/systemd-timesyncd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify WATCHDOG_PID=589 WATCHDOG_USEC=180000000 LOGNAME=systemd-timesync USER=systemd-timesync INVOCATION_ID=b5ccf4ebadf9408696f15349bb8ea1e9 JOURNAL_STREAM=9:34983
+systemd+      -  0.0    -      -     - -        Ssl  22:57   0:00 -
+systemd+      -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        592  0.0  0.0  88220  1036 ?        -    22:57   0:00 /usr/bin/VGAuthService LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=d7a9c009ba7045969ef2674353fefb89 JOURNAL_STREAM=9:35041
+root          -  0.0    -      -     - -        Ss   22:57   0:00 -
+root        602  0.2  0.1 206828  3056 ?        -    22:57   0:02 /usr/bin/vmtoolsd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=6c4f816be3d344e485a0214a14005c2a JOURNAL_STREAM=9:35254
+root          -  0.2    -      -     - -        Ssl  22:57   0:02 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+message+    613  0.0  0.1  51460  2868 ?        -    22:57   0:01 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin LISTEN_PID=613 LISTEN_FDS=1 LISTEN_FDNAMES=dbus.socket SYSTEMD_NSS_BYPASS_BUS=1 INVOCATION_ID=5f386f75dbb84d15a9da613908598752 JOURNAL_STREAM=9:35448
+message+      -  0.0    -      -     - -        Ss   22:57   0:01 -
+root        647  0.0  0.3 580652  5148 ?        -    22:57   0:00 /usr/sbin/NetworkManager --no-daemon LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=e20370a834364f159cb2d1f30bb28e08 JOURNAL_STREAM=9:35681
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        648  0.0  0.1  70672  1756 ?        -    22:57   0:00 /lib/systemd/systemd-logind LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify WATCHDOG_PID=648 WATCHDOG_USEC=180000000 INVOCATION_ID=6f3b188046d541fd9fcf749d6e671759 JOURNAL_STREAM=9:35757
+root          -  0.0    -      -     - -        Ss   22:57   0:00 -
+root        655  0.0  0.2 434312  3472 ?        -    22:57   0:00 /usr/sbin/ModemManager --filter-policy=strict LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin HOME=/root LOGNAME=root USER=root SHELL=/bin/sh INVOCATION_ID=8bd720c89e874859b2bcd32eb74c6dc1 JOURNAL_STREAM=9:36410
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        662  0.0  0.0   4548     0 ?        -    22:57   0:00 /usr/sbin/acpid LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=3d2c36dd81c44b5f9e3f9545018c1f81
+root          -  0.0    -      -     - -        Ss   22:57   0:00 -
+root        666  0.0  0.3 177688  5200 ?        -    22:57   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify INVOCATION_ID=94ca2269564941e2a529685ca040641f JOURNAL_STREAM=9:37086 networkd_dispatcher_args=--run-startup-triggers
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        667  0.0  0.3 517980  6156 ?        -    22:57   0:00 /usr/lib/udisks2/udisksd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=21ebd3075dbf454590435fa2f0813afc JOURNAL_STREAM=9:37161
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        673  0.0  0.0  38424  1100 ?        -    22:57   0:00 /usr/sbin/cron -f LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=e7d23d290ae5409f8f17cd0f3ff4ef7d JOURNAL_STREAM=9:37311
+root          -  0.0    -      -     - -        Ss   22:57   0:00 -
+avahi       675  0.0  0.0  47256   872 ?        -    22:57   0:00 avahi-daemon: running [yaoxiao-virtual-machine.local] xiao-virtual-machine.local]                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+avahi         -  0.0    -      -     - -        Ss   22:57   0:00 -
+root        676  0.0  0.0  45224   912 ?        -    22:57   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=bf6b05d1a9dc432984ca36ce285884e0 JOURNAL_STREAM=9:37470
+root          -  0.0    -      -     - -        Ss   22:57   0:00 -
+avahi       677  0.0  0.0  47072    40 ?        -    22:57   0:00 avahi-daemon: chroot helper r                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+avahi         -  0.0    -      -     - -        S    22:57   0:00 -
+root        687  0.0  0.0 110508  1556 ?        -    22:57   0:00 /usr/sbin/irqbalance --foreground LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=3bc538edd7b1484f8e9ad2fb668f48a7 JOURNAL_STREAM=9:37682
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        695  0.0  0.2 308788  3600 ?        -    22:57   0:00 /usr/lib/accountsservice/accounts-daemon LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=798df5fde67845e5bbd9032b6a030bb3 JOURNAL_STREAM=9:37907 GVFS_DISABLE_FUSE=1 GIO_USE_VFS=local GVFS_REMOTE_VOLUME_MONITOR_IGNORE=1
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+syslog      708  0.0  0.0 263032   844 ?        -    22:57   0:00 /usr/sbin/rsyslogd -n LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify LISTEN_PID=708 LISTEN_FDS=1 LISTEN_FDNAMES=syslog.socket INVOCATION_ID=f85b6274755b4c718a46e8efe82c58e9
+syslog        -  0.0    -      -     - -        Ssl  22:57   0:00 -
+syslog        -  0.0    -      -     - -        Ssl  22:57   0:00 -
+syslog        -  0.0    -      -     - -        Ssl  22:57   0:00 -
+syslog        -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        722 32.3  1.4 1174232 25092 ?       -    22:57   7:20 /usr/lib/snapd/snapd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games NOTIFY_SOCKET=/run/systemd/notify LISTEN_PID=722 LISTEN_FDS=2 LISTEN_FDNAMES=snapd.socket:snapd.socket WATCHDOG_PID=722 WATCHDOG_USEC=300000000 INVOCATION_ID=e35e2e5c82164974a9cef949d309c1d8 JOURNAL_STREAM=9:39073
+root          -  0.0    -      -     - -        Ssl  22:57   0:01 -
+root          -  2.1    -      -     - -        Ssl  22:57   0:29 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  4.1    -      -     - -        Ssl  22:57   0:56 -
+root          -  4.1    -      -     - -        Ssl  22:57   0:55 -
+root          -  0.2    -      -     - -        Ssl  22:57   0:03 -
+root          -  3.8    -      -     - -        Ssl  22:57   0:51 -
+root          -  4.4    -      -     - -        Ssl  22:57   1:00 -
+root          -  4.3    -      -     - -        Ssl  22:58   0:58 -
+root          -  4.4    -      -     - -        Ssl  22:58   0:59 -
+root          -  4.6    -      -     - -        Ssl  22:59   0:58 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root          -  0.3    -      -     - -        Ssl  22:59   0:04 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root        752  0.0  0.3 321876  5936 ?        -    22:57   0:00 /usr/lib/policykit-1/polkitd --no-debug LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=34b2d72c6237434ea51a81a44a41e587 JOURNAL_STREAM=9:39226
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        759  0.0  0.4 194400  8276 ?        -    22:57   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=069cc4753b174cdcb06070200b34d459 JOURNAL_STREAM=9:38800
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        791  0.0  0.2 308428  3824 ?        -    22:57   0:00 /usr/sbin/gdm3 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=bf1d59332f1946b39f4ebd14b6b326c9 JOURNAL_STREAM=9:40277
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root        852  0.0  0.1  25988  2172 ?        -    22:57   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-ens33.pid -lf /var/lib/NetworkManager/dhclient-61113477-6a50-3a52-9e84-85df1c89038a-ens33.lease -cf /var/lib/NetworkManager/dhclient-ens33.conf ens33 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=e20370a834364f159cb2d1f30bb28e08 JOURNAL_STREAM=9:35681 GIO_USE_VFS=local
+root          -  0.0    -      -     - -        S    22:57   0:00 -
+root        867  0.0  0.4 342132  7064 ?        -    22:57   0:00 /usr/sbin/apache2 -k start LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 APACHE_RUN_DIR=/var/run/apache2 APACHE_PID_FILE=/var/run/apache2/apache2.pid JOURNAL_STREAM=9:40018 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=03cd5aff34044b37adb13cd5b96806dc LC_ADDRESS=en_CA.UTF-8 APACHE_LOCK_DIR=/var/lock/apache2 LANG=C LC_TELEPHONE=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 APACHE_RUN_USER=www-data APACHE_RUN_GROUP=www-data LC_MEASUREMENT=en_CA.UTF-8 APACHE_LOG_DIR=/var/log/apache2 LC_IDENTIFICATION=en_CA.UTF-8 PWD=/ LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+root          -  0.0    -      -     - -        Ss   22:57   0:00 -
+root        869  0.0  0.2 419680  4348 ?        -    22:57   0:00 gdm-session-worker [pam/gdm-autologin] LC_MONETARY=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LANG=zh_CN.UTF-8 LC_NAME=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 INVOCATION_ID=bf1d59332f1946b39f4ebd14b6b326c9 LANGUAGE=zh_CN:zh GDM_SESSION_DBUS_ADDRESS=unix:abstract=/tmp/dbus-xL9QA0qn JOURNAL_STREAM=9:40277 LC_ADDRESS=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin LC_PAPER=en_CA.UTF-8
+root          -  0.0    -      -     - -        Sl   22:57   0:00 -
+root          -  0.0    -      -     - -        Sl   22:57   0:00 -
+root          -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao     896  0.0  0.2  77060  4768 ?        -    22:57   0:00 /lib/systemd/systemd --user LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify HOME=/home/yaoxiao LOGNAME=yaoxiao USER=yaoxiao SHELL=/bin/bash INVOCATION_ID=0617fcfab2ff4cb7b802b054c2601146 JOURNAL_STREAM=9:40613 XDG_RUNTIME_DIR=/run/user/1000
+yaoxiao       -  0.0    -      -     - -        Ss   22:57   0:00 -
+yaoxiao     897  0.0  0.0 195916  1132 ?        -    22:57   0:00 (sd-pam) HOME=/ init=/sbin/init NETWORK_SKIP_ENSLAVED= recovery= TERM=linux drop_caps= BOOT_IMAGE=/boot/vmlinuz-5.0.0-25-generic PATH=/sbin:/usr/sbin:/bin:/usr/bin PWD=/ rootmnt=/root
+yaoxiao       -  0.0    -      -     - -        S    22:57   0:00 -
+mysql       910  0.2  9.5 1482940 161940 ?      -    22:57   0:03 /usr/sbin/mysqld --daemonize --pid-file=/run/mysqld/mysqld.pid LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin HOME=/nonexistent LOGNAME=mysql USER=mysql SHELL=/bin/false INVOCATION_ID=527a72cccb7f4cd6ac355bddd1b8cb4b JOURNAL_STREAM=9:40747
+mysql         -  0.1    -      -     - -        Sl   22:57   0:01 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   22:57   0:00 -
+mysql         -  0.0    -      -     - -        Sl   23:02   0:00 -
+mysql         -  0.0    -      -     - -        Sl   23:02   0:00 -
+yaoxiao     923  0.0  0.1 288648  3384 ?        -    22:57   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login XDG_SEAT=seat0 LOGNAME=yaoxiao USER=yaoxiao USERNAME=yaoxiao HOME=/home/yaoxiao PWD=/home/yaoxiao SHELL=/bin/bash PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games XDG_SESSION_TYPE=x11 XDG_VTNR=1 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_NUMERIC=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_ADDRESS=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 XDG_SESSION_ID=1 XDG_RUNTIME_DIR=/run/user/1000 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+yaoxiao       -  0.0    -      -     - -        SLl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        SLl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        SLl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        SLl  22:57   0:00 -
+yaoxiao     928  0.0  0.2 212244  3416 tty1     -    22:57   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu XDG_SEAT=seat0 LOGNAME=yaoxiao USER=yaoxiao USERNAME=yaoxiao HOME=/home/yaoxiao PWD=/home/yaoxiao SHELL=/bin/bash PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games XDG_SESSION_TYPE=x11 XDG_VTNR=1 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_NUMERIC=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_ADDRESS=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 XDG_SESSION_ID=1 XDG_RUNTIME_DIR=/run/user/1000 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus GDMSESSION=ubuntu XDG_SESSION_DESKTOP=ubuntu DESKTOP_SESSION=ubuntu XDG_CURRENT_DESKTOP=ubuntu:GNOME
+yaoxiao       -  0.0    -      -     - -        Ssl+ 22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl+ 22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl+ 22:57   0:00 -
+yaoxiao     930  1.7  2.1 387828 36120 tty1     -    22:57   0:24 /usr/lib/xorg/Xorg vt1 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3 USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu LC_MONETARY=en_CA.UTF-8 XORG_RUN_AS_USER_OK=1 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus LOGNAME=yaoxiao USERNAME=yaoxiao XDG_SESSION_ID=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 LANG=zh_CN.UTF-8 LC_TELEPHONE=en_CA.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash LC_NAME=en_CA.UTF-8 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 PWD=/home/yaoxiao LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+yaoxiao       -  1.5    -      -     - -        Sl+  22:57   0:21 -
+yaoxiao       -  0.2    -      -     - -        Sl+  22:57   0:02 -
+kernoops    957  0.0  0.0  56936   416 ?        -    22:57   0:00 /usr/sbin/kerneloops --test LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin LOGNAME=kernoops USER=kernoops INVOCATION_ID=310e5aabc20b48989d499aa6e18c7906 JOURNAL_STREAM=9:41653 ENABLED=1
+kernoops      -  0.0    -      -     - -        Ss   22:57   0:00 -
+whoopsie    969  0.0  0.2 466600  5048 ?        -    22:57   0:00 /usr/bin/whoopsie -f LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=5e60ae9dfdc84a629a2baf8dbff880ed JOURNAL_STREAM=9:42331 CRASH_DB_URL=https://daisy.ubuntu.com
+whoopsie      -  0.0    -      -     - -        Ssl  22:57   0:00 -
+whoopsie      -  0.0    -      -     - -        Ssl  22:57   0:00 -
+whoopsie      -  0.0    -      -     - -        Ssl  22:57   0:00 -
+kernoops    976  0.0  0.0  56936   420 ?        -    22:57   0:00 /usr/sbin/kerneloops LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin LOGNAME=kernoops USER=kernoops INVOCATION_ID=310e5aabc20b48989d499aa6e18c7906 JOURNAL_STREAM=9:41792 ENABLED=1
+kernoops      -  0.0    -      -     - -        Ss   22:57   0:00 -
+yaoxiao    1138  0.0  0.2  52764  4620 ?        -    22:57   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus HOME=/home/yaoxiao LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin SHELL=/bin/bash USER=yaoxiao XDG_RUNTIME_DIR=/run/user/1000 MANAGERPID=896 LISTEN_PID=1138 LISTEN_FDS=1 LISTEN_FDNAMES=dbus.socket INVOCATION_ID=5f4aeb42286d42769b967fb2f8268a91 JOURNAL_STREAM=9:43114
+yaoxiao       -  0.0    -      -     - -        Ss   22:57   0:00 -
+yaoxiao    1143  0.0  0.3 643756  6592 tty1     -    22:57   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/tmp/ssh-dncs6m8rQiRG/agent.1143 LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1362  0.0  0.0  11300   316 ?        -    22:57   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu gnome-session --session=ubuntu CLUTTER_IM_MODULE=xim LC_MEASUREMENT=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LANG=zh_CN.UTF-8 DISPLAY=:0 USERNAME=yaoxiao XDG_VTNR=1 LC_NAME=en_CA.UTF-8 XDG_SESSION_ID=1 USER=yaoxiao DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/yaoxiao HOME=/home/yaoxiao TEXTDOMAIN=im-config QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu LC_ADDRESS=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 GTK_MODULES=gail:atk-bridge WINDOWPATH=1 SHELL=/bin/bash QT_IM_MODULE=xim XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 SHLVL=0 XDG_SEAT=seat0 LANGUAGE=zh_CN:zh LC_TELEPHONE=en_CA.UTF-8 GDMSESSION=ubuntu LOGNAME=yaoxiao DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_IDENTIFICATION=en_CA.UTF-8 GTK_IM_MODULE=ibus LC_TIME=en_CA.UTF-8
+yaoxiao       -  0.0    -      -     - -        Ss   22:57   0:00 -
+yaoxiao    1374  0.0  0.2 292088  3768 ?        -    22:57   0:00 /usr/lib/gvfs/gvfsd CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SHELL=/bin/bash SHLVL=1 TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=x11 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=af40d5babb8249fb8c4cf5a19602fca1 JOURNAL_STREAM=9:43325
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1399  0.0  0.2 432020  3736 ?        -    22:57   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SHELL=/bin/bash SHLVL=1 TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=x11 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=af40d5babb8249fb8c4cf5a19602fca1 JOURNAL_STREAM=9:43325
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1446  0.0  0.2 367980  4124 ?        -    22:57   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SHELL=/bin/bash SHLVL=1 TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=x11 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=9d5acefcfb624c72951b3ecd681c4246 JOURNAL_STREAM=9:43419
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1451  0.0  0.1  49920  1720 ?        -    22:57   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SHELL=/bin/bash SHLVL=1 TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=x11 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=9d5acefcfb624c72951b3ecd681c4246 JOURNAL_STREAM=9:43419
+yaoxiao       -  0.0    -      -     - -        S    22:57   0:00 -
+yaoxiao    1453  0.0  0.2 220772  3812 ?        -    22:57   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session XDG_RUNTIME_DIR=/run/user/1000 XMODIFIERS=@im=ibus XDG_SESSION_TYPE=x11 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus QT_IM_MODULE=xim USER=yaoxiao XAUTHORITY=/run/user/1000/gdm/Xauthority LC_ADDRESS=en_CA.UTF-8 DBUS_STARTER_BUS_TYPE=accessibility SHLVL=1 XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash QT_ACCESSIBILITY=1 LC_NAME=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 WINDOWPATH=1 USERNAME=yaoxiao XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop LANGUAGE=zh_CN:zh IM_CONFIG_PHASE=2 QT4_IM_MODULE=xim LC_TELEPHONE=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/yaoxiao HOME=/home/yaoxiao _=/usr/bin/dbus-update-activation-environment CLUTTER_IM_MODULE=xim DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-bc8APrbIUa,guid=c8473313860ea30e69e085625ea79bac DISPLAY=:0 LC_PAPER=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GTK_MODULES=gail:atk-bridge GTK_IM_MODULE=ibus GDMSESSION=ubuntu JOURNAL_STREAM=9:43419 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 INVOCATION_ID=9d5acefcfb624c72951b3ecd681c4246 LANG=zh_CN.UTF-8 LOGNAME=yaoxiao TEXTDOMAIN=im-config XDG_CURRENT_DESKTOP=ubuntu:GNOME DESKTOP_SESSION=ubuntu LC_IDENTIFICATION=en_CA.UTF-8 MANAGERPID=896 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1469  5.4 15.6 3481524 265092 tty1   -    22:57   1:13 /usr/bin/gnome-shell USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670700700000011430000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1469
+yaoxiao       -  4.8    -      -     - -        Sl+  22:57   1:05 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:01 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+root       1475  0.0  0.2 322400  4052 ?        -    22:57   0:00 /usr/lib/upower/upowerd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=d2c956da2a1a49c98092f0775e0b1e30 JOURNAL_STREAM=9:43624
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1490  0.2  0.3 1172248 6652 ?        -    22:57   0:03 /usr/bin/pulseaudio --start --log-target=syslog USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670700700000011430000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1469 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG LD_BIND_NOW=1
+yaoxiao       -  0.0    -      -     - -        S<l  22:57   0:00 -
+yaoxiao       -  0.1    -      -     - -        Sl   22:57   0:02 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+rtkit      1491  0.0  0.0 183500  1364 ?        -    22:57   0:00 /usr/lib/rtkit/rtkit-daemon LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify INVOCATION_ID=798cdbcf1a50448d81b6977a39153cdc JOURNAL_STREAM=9:45277
+rtkit         -  0.0    -      -     - -        SNsl 22:57   0:00 -
+rtkit         -  0.0    -      -     - -        Ssl  22:57   0:00 -
+rtkit         -  0.0    -      -     - -        SNsl 22:57   0:00 -
+yaoxiao    1503  0.3  0.3 451528  5144 tty1     -    22:57   0:04 ibus-daemon --xim --panel disable USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670700700000011430000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1469 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+yaoxiao       -  0.1    -      -     - -        Sl   22:57   0:01 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.2    -      -     - -        Sl   22:57   0:03 -
+yaoxiao    1507  0.0  0.2 297020  3972 tty1     -    22:57   0:00 /usr/lib/ibus/ibus-dconf USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670700700000011430000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1469 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1509  0.0  0.6 356960 11056 tty1     -    22:57   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670700700000011430000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1469 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1512  0.0  0.2 294964  3976 ?        -    22:57   0:00 /usr/lib/ibus/ibus-portal XDG_RUNTIME_DIR=/run/user/1000 SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 XMODIFIERS=@im=ibus XDG_SESSION_TYPE=x11 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa USER=yaoxiao XAUTHORITY=/run/user/1000/gdm/Xauthority QT_IM_MODULE=xim DBUS_STARTER_BUS_TYPE=session LC_ADDRESS=en_CA.UTF-8 SHLVL=0 XDG_MENU_PREFIX=gnome- XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash QT_ACCESSIBILITY=1 LC_NAME=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 WINDOWPATH=1 USERNAME=yaoxiao XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop LANGUAGE=zh_CN:zh QT4_IM_MODULE=xim IM_CONFIG_PHASE=2 GNOME_SHELL_SESSION_MODE=ubuntu LC_TELEPHONE=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/yaoxiao HOME=/home/yaoxiao _=/usr/bin/dbus-update-activation-environment DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa CLUTTER_IM_MODULE=xim DISPLAY=:0 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_PAPER=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=1 GTK_MODULES=gail:atk-bridge GDMSESSION=ubuntu GTK_IM_MODULE=ibus XDG_SESSION_ID=1 JOURNAL_STREAM=9:43114 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 INVOCATION_ID=5f4aeb42286d42769b967fb2f8268a91 LANG=zh_CN.UTF-8 LOGNAME=yaoxiao TEXTDOMAIN=im-config XDG_CURRENT_DESKTOP=ubuntu:GNOME DESKTOP_SESSION=ubuntu LC_IDENTIFICATION=en_CA.UTF-8 SSH_AGENT_PID=1362 MANAGERPID=896 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1516  0.0  0.1 271796  2220 ?        -    22:57   0:00 /usr/libexec/xdg-permission-store CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=1b42f696de2e4f73870845f4dad91247 JOURNAL_STREAM=9:45747
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1527  0.0  0.3 696688  5548 ?        -    22:57   0:00 /usr/lib/gnome-shell/gnome-shell-calendar-server XDG_RUNTIME_DIR=/run/user/1000 SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 XMODIFIERS=@im=ibus XDG_SESSION_TYPE=x11 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa USER=yaoxiao XAUTHORITY=/run/user/1000/gdm/Xauthority QT_IM_MODULE=xim DBUS_STARTER_BUS_TYPE=session LC_ADDRESS=en_CA.UTF-8 SHLVL=0 XDG_MENU_PREFIX=gnome- XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash QT_ACCESSIBILITY=1 LC_NAME=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 WINDOWPATH=1 USERNAME=yaoxiao XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop LANGUAGE=zh_CN:zh QT4_IM_MODULE=xim IM_CONFIG_PHASE=2 GNOME_SHELL_SESSION_MODE=ubuntu LC_TELEPHONE=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/yaoxiao HOME=/home/yaoxiao _=/usr/bin/dbus-update-activation-environment DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa CLUTTER_IM_MODULE=xim DISPLAY=:0 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_PAPER=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=1 GTK_MODULES=gail:atk-bridge GDMSESSION=ubuntu GTK_IM_MODULE=ibus XDG_SESSION_ID=1 JOURNAL_STREAM=9:43114 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 INVOCATION_ID=5f4aeb42286d42769b967fb2f8268a91 LANG=zh_CN.UTF-8 LOGNAME=yaoxiao TEXTDOMAIN=im-config XDG_CURRENT_DESKTOP=ubuntu:GNOME DESKTOP_SESSION=ubuntu LC_IDENTIFICATION=en_CA.UTF-8 SSH_AGENT_PID=1362 MANAGERPID=896 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1531  0.0  0.4 694788  8180 ?        -    22:57   0:00 /usr/lib/evolution/evolution-source-registry CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=7e6216ea142d4fefb8d0ada601dc85a8 JOURNAL_STREAM=9:45792
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1539  0.0  0.5 778604  9124 ?        -    22:57   0:00 /usr/lib/gnome-online-accounts/goa-daemon XDG_RUNTIME_DIR=/run/user/1000 SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 XMODIFIERS=@im=ibus XDG_SESSION_TYPE=x11 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa USER=yaoxiao XAUTHORITY=/run/user/1000/gdm/Xauthority QT_IM_MODULE=xim DBUS_STARTER_BUS_TYPE=session LC_ADDRESS=en_CA.UTF-8 SHLVL=0 XDG_MENU_PREFIX=gnome- XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash QT_ACCESSIBILITY=1 LC_NAME=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 WINDOWPATH=1 USERNAME=yaoxiao XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop LANGUAGE=zh_CN:zh QT4_IM_MODULE=xim IM_CONFIG_PHASE=2 GNOME_SHELL_SESSION_MODE=ubuntu LC_TELEPHONE=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/yaoxiao HOME=/home/yaoxiao _=/usr/bin/dbus-update-activation-environment DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa CLUTTER_IM_MODULE=xim DISPLAY=:0 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_PAPER=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=1 GTK_MODULES=gail:atk-bridge GDMSESSION=ubuntu GTK_IM_MODULE=ibus XDG_SESSION_ID=1 JOURNAL_STREAM=9:43114 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 INVOCATION_ID=5f4aeb42286d42769b967fb2f8268a91 LANG=zh_CN.UTF-8 LOGNAME=yaoxiao TEXTDOMAIN=im-config XDG_CURRENT_DESKTOP=ubuntu:GNOME DESKTOP_SESSION=ubuntu LC_IDENTIFICATION=en_CA.UTF-8 SSH_AGENT_PID=1362 MANAGERPID=896 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+root       1543  0.0  0.2 315468  3940 ?        -    22:57   0:00 /usr/lib/x86_64-linux-gnu/boltd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=8d30a9c3cfef43db836e93b9c0eaedb1 JOURNAL_STREAM=9:43938
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1548  0.0  0.1 187904  3180 ?        -    22:57   0:00 /usr/lib/dconf/dconf-service XDG_RUNTIME_DIR=/run/user/1000 SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 XMODIFIERS=@im=ibus XDG_SESSION_TYPE=x11 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa USER=yaoxiao XAUTHORITY=/run/user/1000/gdm/Xauthority QT_IM_MODULE=xim DBUS_STARTER_BUS_TYPE=session LC_ADDRESS=en_CA.UTF-8 SHLVL=0 XDG_MENU_PREFIX=gnome- XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash QT_ACCESSIBILITY=1 LC_NAME=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 WINDOWPATH=1 USERNAME=yaoxiao XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop LANGUAGE=zh_CN:zh QT4_IM_MODULE=xim IM_CONFIG_PHASE=2 GNOME_SHELL_SESSION_MODE=ubuntu LC_TELEPHONE=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/yaoxiao HOME=/home/yaoxiao _=/usr/bin/dbus-update-activation-environment DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa CLUTTER_IM_MODULE=xim DISPLAY=:0 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_PAPER=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=1 GTK_MODULES=gail:atk-bridge GDMSESSION=ubuntu GTK_IM_MODULE=ibus XDG_SESSION_ID=1 JOURNAL_STREAM=9:43114 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 INVOCATION_ID=5f4aeb42286d42769b967fb2f8268a91 LANG=zh_CN.UTF-8 LOGNAME=yaoxiao TEXTDOMAIN=im-config XDG_CURRENT_DESKTOP=ubuntu:GNOME DESKTOP_SESSION=ubuntu LC_IDENTIFICATION=en_CA.UTF-8 SSH_AGENT_PID=1362 MANAGERPID=896 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1554  0.0  0.3 320488  5092 ?        -    22:57   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=9a8d452ecf40486588828fc9e00c0343 JOURNAL_STREAM=9:43996
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1563  0.0  0.2 393576  3908 ?        -    22:57   0:00 /usr/lib/gnome-online-accounts/goa-identity-service XDG_RUNTIME_DIR=/run/user/1000 SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 XMODIFIERS=@im=ibus XDG_SESSION_TYPE=x11 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa USER=yaoxiao XAUTHORITY=/run/user/1000/gdm/Xauthority QT_IM_MODULE=xim DBUS_STARTER_BUS_TYPE=session LC_ADDRESS=en_CA.UTF-8 SHLVL=0 XDG_MENU_PREFIX=gnome- XDG_SESSION_DESKTOP=ubuntu SHELL=/bin/bash QT_ACCESSIBILITY=1 LC_NAME=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 WINDOWPATH=1 USERNAME=yaoxiao XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop LANGUAGE=zh_CN:zh QT4_IM_MODULE=xim IM_CONFIG_PHASE=2 GNOME_SHELL_SESSION_MODE=ubuntu LC_TELEPHONE=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/yaoxiao HOME=/home/yaoxiao _=/usr/bin/dbus-update-activation-environment DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=0d4a9fb4899a533966ab0b115ea79baa CLUTTER_IM_MODULE=xim DISPLAY=:0 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_PAPER=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_VTNR=1 GTK_MODULES=gail:atk-bridge GDMSESSION=ubuntu GTK_IM_MODULE=ibus XDG_SESSION_ID=1 JOURNAL_STREAM=9:43114 GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 XDG_SEAT=seat0 INVOCATION_ID=5f4aeb42286d42769b967fb2f8268a91 LANG=zh_CN.UTF-8 LOGNAME=yaoxiao TEXTDOMAIN=im-config XDG_CURRENT_DESKTOP=ubuntu:GNOME DESKTOP_SESSION=ubuntu LC_IDENTIFICATION=en_CA.UTF-8 SSH_AGENT_PID=1362 MANAGERPID=896 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1569  0.0  0.1 274176  3212 ?        -    22:57   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=4b60af8744aa47e9b289e8c86fea331d JOURNAL_STREAM=9:46030
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1573  0.0  0.2 288764  3592 ?        -    22:57   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=a1c10697b8954999820924b6698dbc34 JOURNAL_STREAM=9:46092
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1577  0.0  0.1 378944  3324 ?        -    22:57   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=87b4279d03cc402f9550759473a5d411 JOURNAL_STREAM=9:46130
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1582  0.0  0.1 275976  3372 ?        -    22:57   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=815365b993cf4c12ba7774ca13f8d83a JOURNAL_STREAM=9:46177
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root       1586  0.9  1.7 531096 29788 ?        -    22:57   0:12 /usr/lib/packagekit/packagekitd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin HOME=/root LOGNAME=root USER=root SHELL=/bin/sh INVOCATION_ID=ca5b6c7b45c94daa810070c6a07b6fe0 JOURNAL_STREAM=9:47215
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1589  0.0  0.6 527980 10916 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-power USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701960300000011430009 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Power.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1589
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1592  0.0  0.2 349468  4556 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-print-notifications USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702050300000011430010 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.PrintNotifications.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1592
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1594  0.0  0.1 423492  3308 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-rfkill USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702147900000011430011 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Rfkill.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1594
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1595  0.0  0.1 275880  3268 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-screensaver-proxy USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702279600000011430012 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.ScreensaverProxy.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1595
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1601  0.0  0.2 471608  4284 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-sharing USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702390600000011430013 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Sharing.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1601
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1604  0.0  0.6 505448 11268 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-xsettings USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702708700000011430017 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.XSettings.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1604
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1608  0.0  0.1 393012  3036 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-smartcard USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702475900000011430014 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Smartcard.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1608
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1612  0.0  0.2 343384  4332 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-sound USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702564800000011430015 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Sound.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1612
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1617  0.0  0.6 441468 10976 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-wacom USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702628500000011430016 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Wacom.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1617
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1620  0.0  0.6 356608 10560 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-clipboard USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701134000000011430002 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Clipboard.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1620
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1625  0.0  0.2 296940  3804 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-a11y-settings USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670974900000011430001 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.A11ySettings.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1625
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1627  0.0  0.3 476992  5980 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-datetime USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701378500000011430004 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Datetime.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1627
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1629  0.0  0.6 669664 11320 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-color USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701260800000011430003 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Color.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1629
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1630  0.0  0.6 517356 10804 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-keyboard USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701575500000011430006 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Keyboard.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1630
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1631  0.0  0.2 374972  3860 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-housekeeping USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701455500000011430005 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Housekeeping.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1631
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1632  0.0  0.2 296932  3844 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-mouse USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701830500000011430008 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.Mouse.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1632
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1637  0.0  0.6 1090432 10932 tty1    -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-media-keys USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426701706400000011430007 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.MediaKeys.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1637
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1657  0.0  0.2 508908  4544 tty1     -    22:57   0:00 /usr/lib/gnome-settings-daemon/gsd-printer USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426702050300000011430010 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.PrintNotifications.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1592
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1691  0.2  0.7 528864 12580 tty1     -    22:57   0:03 /usr/bin/vmtoolsd -n vmusr --blockFd 3 USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426704984100000011430031 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/vmware-user.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1689
+yaoxiao       -  0.2    -      -     - -        Sl+  22:57   0:03 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1693  0.0  0.2 271932  3636 tty1     -    22:57   0:00 /usr/lib/gnome-disk-utility/gsd-disk-utility-notify USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426709201000000011430055 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.SettingsDaemon.DiskUtilityNotify.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1693
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao    1694  0.1  1.6 1076744 27120 tty1    -    22:57   0:02 nautilus-desktop USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426708127700000011430050 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/nautilus-autostart.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1694
+yaoxiao       -  0.1    -      -     - -        Sl+  22:57   0:01 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:57   0:00 -
+colord     1702  0.0  0.4 339692  8212 ?        -    22:57   0:00 /usr/lib/colord/colord LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin HOME=/var/lib/colord LOGNAME=colord USER=colord INVOCATION_ID=a8bb4d03b01949c6a9db0a2b981f1f65 JOURNAL_STREAM=9:46824
+colord        -  0.0    -      -     - -        Ssl  22:57   0:00 -
+colord        -  0.0    -      -     - -        Ssl  22:57   0:00 -
+colord        -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1728  0.0  0.2 384408  4316 ?        -    22:57   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SHELL=/bin/bash SHLVL=1 TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_RUNTIME_DIR=/run/user/1000 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_TYPE=x11 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=af40d5babb8249fb8c4cf5a19602fca1 JOURNAL_STREAM=9:43325
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao    1734  0.0  2.5 894608 43856 ?        -    22:57   0:01 /usr/lib/evolution/evolution-calendar-factory CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=172735a61acc4f98822bfbe16e582568 JOURNAL_STREAM=9:46915
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:01 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:57   0:00 -
+yaoxiao    1755  0.0  2.4 1069244 41136 ?       -    22:57   0:01 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1734x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1734/2 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=172735a61acc4f98822bfbe16e582568 JOURNAL_STREAM=9:46915
+yaoxiao       -  0.0    -      -     - -        Sl   22:57   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao    1757  0.1  0.2 221164  3888 tty1     -    22:58   0:01 /usr/lib/ibus/ibus-engine-simple USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670700700000011430000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1469 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:01 -
+yaoxiao    1776  0.0  0.3 735280  6468 ?        -    22:58   0:00 /usr/lib/evolution/evolution-addressbook-factory CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=691112749b6c4f42a08ee14cd1d8f35c JOURNAL_STREAM=9:48509
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao    1783  0.0  0.5 879080  8808 ?        -    22:58   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory all --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1776x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1776/2 CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=691112749b6c4f42a08ee14cd1d8f35c JOURNAL_STREAM=9:48509
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao    1827  0.6  1.2 826236 21976 ?        -    22:58   0:08 /usr/lib/gnome-terminal/gnome-terminal-server CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=2dbc6de163c34b1295f6f4ccfceadd24 JOURNAL_STREAM=9:49358
+yaoxiao       -  0.6    -      -     - -        Ssl  22:58   0:08 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  22:58   0:00 -
+yaoxiao    1837  0.0  0.1  29964  2328 pts/0    -    22:58   0:00 bash LC_ADDRESS=en_CA.UTF-8 XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_TELEPHONE=en_CA.UTF-8 LANG=zh_CN.UTF-8 DISPLAY=:0 SHLVL=0 LOGNAME=yaoxiao LANGUAGE=zh_CN:zh LC_NAME=en_CA.UTF-8 XDG_VTNR=1 XDG_SEAT=seat0 XAUTHORITY=/run/user/1000/gdm/Xauthority PWD=/home/yaoxiao GTK_IM_MODULE=ibus USER=yaoxiao XDG_SESSION_ID=1 GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/9c0f63a9_761f_4d3c_88e1_5d9c2de25312 DESKTOP_SESSION=ubuntu XDG_SESSION_DESKTOP=ubuntu GDMSESSION=ubuntu TEXTDOMAINDIR=/usr/share/locale/ USERNAME=yaoxiao GNOME_DESKTOP_SESSION_ID=this-is-deprecated LC_MEASUREMENT=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 IM_CONFIG_PHASE=2 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus QT_ACCESSIBILITY=1 VTE_VERSION=5202 CLUTTER_IM_MODULE=xim GNOME_TERMINAL_SERVICE=:1.60 TEXTDOMAIN=im-config QT4_IM_MODULE=xim XDG_MENU_PREFIX=gnome- WINDOWPATH=1 GNOME_SHELL_SESSION_MODE=ubuntu SHELL=/bin/bash XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop LC_TIME=en_CA.UTF-8 TERM=xterm-256color SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 GJS_DEBUG_OUTPUT=stderr SSH_AGENT_PID=1362 GTK_MODULES=gail:atk-bridge QT_IM_MODULE=xim COLORTERM=truecolor LC_IDENTIFICATION=en_CA.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME XMODIFIERS=@im=ibus PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin XDG_RUNTIME_DIR=/run/user/1000 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh HOME=/home/yaoxiao GJS_DEBUG_TOPICS=JS ERROR;JS LOG GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+yaoxiao       -  0.0    -      -     - -        Ss   22:58   0:00 -
+yaoxiao    1845  0.0  0.2 303600  4276 tty1     -    22:58   0:00 /usr/lib/ibus/ibus-engine-libpinyin --ibus USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a1588042670700700000011430000 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/org.gnome.Shell.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1469 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl   22:58   0:00 -
+yaoxiao    1854  0.6  8.5 1387128 145568 tty1   -    22:58   0:08 /usr/bin/gnome-software --gapplication-service USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426704467400000011430029 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/gnome-software-service.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1854
+yaoxiao       -  0.3    -      -     - -        SLl+ 22:58   0:04 -
+yaoxiao       -  0.0    -      -     - -        SLl+ 22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        SLl+ 22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        SLl+ 22:58   0:00 -
+yaoxiao    1856  0.0  0.8 702484 13632 tty1     -    22:58   0:00 update-notifier USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426703149500000011430019 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/update-notifier.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1856
+yaoxiao       -  0.0    -      -     - -        Sl+  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:58   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:58   0:00 -
+root       1877  0.0  0.9 567792 16588 ?        -    22:59   0:00 /usr/lib/fwupd/fwupd LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=c5e2aeaff5544f58a924f6744cb1d23a JOURNAL_STREAM=9:50203
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root          -  0.0    -      -     - -        Ssl  22:59   0:00 -
+root       1923  0.0  0.0  72256  1352 pts/0    -    22:59   0:00 su root CLUTTER_IM_MODULE=xim LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36: LC_MEASUREMENT=en_CA.UTF-8 LESSCLOSE=/usr/bin/lesspipe %s %s LC_PAPER=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 XDG_MENU_PREFIX=gnome- LANG=zh_CN.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu COLORTERM=truecolor USERNAME=yaoxiao XDG_VTNR=1 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 XDG_SESSION_ID=1 USER=yaoxiao DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/9c0f63a9_761f_4d3c_88e1_5d9c2de25312 PWD=/home/yaoxiao HOME=/home/yaoxiao TEXTDOMAIN=im-config SSH_AGENT_PID=1362 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu LC_ADDRESS=en_CA.UTF-8 GJS_DEBUG_OUTPUT=stderr LC_NUMERIC=en_CA.UTF-8 GTK_MODULES=gail:atk-bridge WINDOWPATH=1 TERM=xterm-256color SHELL=/bin/bash VTE_VERSION=5202 QT_IM_MODULE=xim XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GNOME_TERMINAL_SERVICE=:1.60 XDG_SEAT=seat0 SHLVL=1 LANGUAGE=zh_CN:zh LC_TELEPHONE=en_CA.UTF-8 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated LOGNAME=yaoxiao DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_IDENTIFICATION=en_CA.UTF-8 GJS_DEBUG_TOPICS=JS ERROR;JS LOG SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 LESSOPEN=| /usr/bin/lesspipe %s GTK_IM_MODULE=ibus LC_TIME=en_CA.UTF-8 _=/bin/su
+root          -  0.0    -      -     - -        S    22:59   0:00 -
+root       1943  0.0  0.2  76760  4012 ?        -    22:59   0:00 /lib/systemd/systemd --user LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin NOTIFY_SOCKET=/run/systemd/notify HOME=/root LOGNAME=root USER=root SHELL=/bin/sh INVOCATION_ID=5dbc7cef436c4da3928ff11eba09831c JOURNAL_STREAM=9:54279 XDG_RUNTIME_DIR=/run/user/0
+root          -  0.0    -      -     - -        Ss   22:59   0:00 -
+root       1944  0.0  0.1 193616  2036 ?        -    22:59   0:00 (sd-pam) HOME=/ init=/sbin/init NETWORK_SKIP_ENSLAVED= recovery= TERM=linux drop_caps= BOOT_IMAGE=/boot/vmlinuz-5.0.0-25-generic PATH=/sbin:/usr/sbin:/bin:/usr/bin PWD=/ rootmnt=/root
+root          -  0.0    -      -     - -        S    22:59   0:00 -
+root       1955  0.0  0.1  28576  2248 pts/0    -    22:59   0:00 bash CLUTTER_IM_MODULE=xim LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36: LC_MEASUREMENT=en_CA.UTF-8 LESSCLOSE=/usr/bin/lesspipe %s %s LC_PAPER=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 XDG_MENU_PREFIX=gnome- LANG=zh_CN.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu COLORTERM=truecolor USERNAME=yaoxiao XDG_VTNR=1 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 XDG_SESSION_ID=2 USER=root DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/9c0f63a9_761f_4d3c_88e1_5d9c2de25312 PWD=/home/yaoxiao HOME=/root TEXTDOMAIN=im-config SSH_AGENT_PID=1362 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu LC_ADDRESS=en_CA.UTF-8 GJS_DEBUG_OUTPUT=stderr LC_NUMERIC=en_CA.UTF-8 GTK_MODULES=gail:atk-bridge WINDOWPATH=1 TERM=xterm-256color SHELL=/bin/bash VTE_VERSION=5202 QT_IM_MODULE=xim XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GNOME_TERMINAL_SERVICE=:1.60 XDG_SEAT=seat0 SHLVL=1 LANGUAGE=zh_CN:zh LC_TELEPHONE=en_CA.UTF-8 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated LOGNAME=root DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/0 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games LC_IDENTIFICATION=en_CA.UTF-8 GJS_DEBUG_TOPICS=JS ERROR;JS LOG SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 LESSOPEN=| /usr/bin/lesspipe %s GTK_IM_MODULE=ibus LC_TIME=en_CA.UTF-8 _=/bin/su MAIL=/var/mail/root
+root          -  0.0    -      -     - -        S    22:59   0:00 -
+yaoxiao    1972  0.0  0.5 937388  9808 tty1     -    22:59   0:00 /usr/lib/deja-dup/deja-dup-monitor USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 DESKTOP_AUTOSTART_ID=1086ea9737dfce355a15880426706073300000011430038 GIO_LAUNCHED_DESKTOP_FILE=/etc/xdg/autostart/org.gnome.DejaDup.Monitor.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1972
+yaoxiao       -  0.0    -      -     - -        Sl+  22:59   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:59   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:59   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  22:59   0:00 -
+yaoxiao    1984  1.0  1.9 742096 32488 tty1     -    23:00   0:12 gedit USER=yaoxiao LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 TEXTDOMAIN=im-config XDG_SEAT=seat0 XDG_SESSION_TYPE=x11 SSH_AGENT_PID=1362 SHLVL=0 QT4_IM_MODULE=xim HOME=/home/yaoxiao DESKTOP_SESSION=ubuntu GTK_MODULES=gail:atk-bridge GNOME_SHELL_SESSION_MODE=ubuntu LC_MONETARY=en_CA.UTF-8 DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus IM_CONFIG_PHASE=2 LOGNAME=yaoxiao GTK_IM_MODULE=ibus USERNAME=yaoxiao XDG_SESSION_ID=1 WINDOWPATH=1 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin LC_ADDRESS=en_CA.UTF-8 XDG_RUNTIME_DIR=/run/user/1000 DISPLAY=:0 LANG=zh_CN.UTF-8 XDG_CURRENT_DESKTOP=ubuntu:GNOME LC_TELEPHONE=en_CA.UTF-8 XDG_SESSION_DESKTOP=ubuntu XMODIFIERS=@im=ibus XAUTHORITY=/run/user/1000/gdm/Xauthority SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 SHELL=/bin/bash QT_ACCESSIBILITY=1 GDMSESSION=ubuntu LC_MEASUREMENT=en_CA.UTF-8 TEXTDOMAINDIR=/usr/share/locale/ GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 LC_IDENTIFICATION=en_CA.UTF-8 XDG_VTNR=1 QT_IM_MODULE=xim PWD=/home/yaoxiao CLUTTER_IM_MODULE=xim XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_MENU_PREFIX=gnome- SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/gedit.desktop GIO_LAUNCHED_DESKTOP_FILE_PID=1984 GJS_DEBUG_OUTPUT=stderr GJS_DEBUG_TOPICS=JS ERROR;JS LOG DESKTOP_STARTUP_ID=gnome-shell-1469-yaoxiao-virtual-machine-gedit-1_TIME161030
+yaoxiao       -  0.9    -      -     - -        Sl+  23:00   0:11 -
+yaoxiao       -  0.0    -      -     - -        Sl+  23:00   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  23:00   0:00 -
+yaoxiao       -  0.0    -      -     - -        Sl+  23:00   0:00 -
+www-data   2101  0.0  0.2 344456  5052 ?        -    23:02   0:00 /usr/sbin/apache2 -k start LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 APACHE_RUN_DIR=/var/run/apache2 APACHE_PID_FILE=/var/run/apache2/apache2.pid JOURNAL_STREAM=9:40018 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=03cd5aff34044b37adb13cd5b96806dc LC_ADDRESS=en_CA.UTF-8 APACHE_LOCK_DIR=/var/lock/apache2 LANG=C LC_TELEPHONE=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 APACHE_RUN_USER=www-data APACHE_RUN_GROUP=www-data LC_MEASUREMENT=en_CA.UTF-8 APACHE_LOG_DIR=/var/log/apache2 LC_IDENTIFICATION=en_CA.UTF-8 PWD=/ LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+www-data      -  0.0    -      -     - -        S    23:02   0:00 -
+www-data   2102  0.0  0.2 344456  5052 ?        -    23:02   0:00 /usr/sbin/apache2 -k start LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 APACHE_RUN_DIR=/var/run/apache2 APACHE_PID_FILE=/var/run/apache2/apache2.pid JOURNAL_STREAM=9:40018 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=03cd5aff34044b37adb13cd5b96806dc LC_ADDRESS=en_CA.UTF-8 APACHE_LOCK_DIR=/var/lock/apache2 LANG=C LC_TELEPHONE=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 APACHE_RUN_USER=www-data APACHE_RUN_GROUP=www-data LC_MEASUREMENT=en_CA.UTF-8 APACHE_LOG_DIR=/var/log/apache2 LC_IDENTIFICATION=en_CA.UTF-8 PWD=/ LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+www-data      -  0.0    -      -     - -        S    23:02   0:00 -
+www-data   2103  0.0  0.2 344456  5052 ?        -    23:02   0:00 /usr/sbin/apache2 -k start LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 APACHE_RUN_DIR=/var/run/apache2 APACHE_PID_FILE=/var/run/apache2/apache2.pid JOURNAL_STREAM=9:40018 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=03cd5aff34044b37adb13cd5b96806dc LC_ADDRESS=en_CA.UTF-8 APACHE_LOCK_DIR=/var/lock/apache2 LANG=C LC_TELEPHONE=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 APACHE_RUN_USER=www-data APACHE_RUN_GROUP=www-data LC_MEASUREMENT=en_CA.UTF-8 APACHE_LOG_DIR=/var/log/apache2 LC_IDENTIFICATION=en_CA.UTF-8 PWD=/ LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+www-data      -  0.0    -      -     - -        S    23:02   0:00 -
+www-data   2104  0.0  0.2 344456  5052 ?        -    23:02   0:00 /usr/sbin/apache2 -k start LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 APACHE_RUN_DIR=/var/run/apache2 APACHE_PID_FILE=/var/run/apache2/apache2.pid JOURNAL_STREAM=9:40018 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=03cd5aff34044b37adb13cd5b96806dc LC_ADDRESS=en_CA.UTF-8 APACHE_LOCK_DIR=/var/lock/apache2 LANG=C LC_TELEPHONE=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 APACHE_RUN_USER=www-data APACHE_RUN_GROUP=www-data LC_MEASUREMENT=en_CA.UTF-8 APACHE_LOG_DIR=/var/log/apache2 LC_IDENTIFICATION=en_CA.UTF-8 PWD=/ LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+www-data      -  0.0    -      -     - -        S    23:02   0:00 -
+www-data   2105  0.0  0.2 344456  5052 ?        -    23:02   0:00 /usr/sbin/apache2 -k start LANGUAGE=zh_CN:zh LC_TIME=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 APACHE_RUN_DIR=/var/run/apache2 APACHE_PID_FILE=/var/run/apache2/apache2.pid JOURNAL_STREAM=9:40018 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=03cd5aff34044b37adb13cd5b96806dc LC_ADDRESS=en_CA.UTF-8 APACHE_LOCK_DIR=/var/lock/apache2 LANG=C LC_TELEPHONE=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 APACHE_RUN_USER=www-data APACHE_RUN_GROUP=www-data LC_MEASUREMENT=en_CA.UTF-8 APACHE_LOG_DIR=/var/log/apache2 LC_IDENTIFICATION=en_CA.UTF-8 PWD=/ LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8
+www-data      -  0.0    -      -     - -        S    23:02   0:00 -
+root       2106  0.0  0.1 108212  3208 ?        -    23:02   0:00 /usr/sbin/cupsd -l LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin LISTEN_PID=2106 LISTEN_FDS=1 LISTEN_FDNAMES=cups.socket INVOCATION_ID=31e7a1c7864d43ec8d50aba724420be2 JOURNAL_STREAM=9:56275
+root          -  0.0    -      -     - -        Ss   23:02   0:00 -
+root       2108  0.0  0.2 303652  4352 ?        -    23:02   0:00 /usr/sbin/cups-browsed LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin INVOCATION_ID=1a6eba01b89747069f7a60547a3a7ff4 JOURNAL_STREAM=9:55185
+root          -  0.0    -      -     - -        Ssl  23:02   0:00 -
+root          -  0.0    -      -     - -        Ssl  23:02   0:00 -
+root          -  0.0    -      -     - -        Ssl  23:02   0:00 -
+root       2179  0.0  0.0      0     0 ?        -    23:09   0:00 [kworker/0:0-eve]
+root          -  0.0    -      -     - -        I    23:09   0:00 -
+root       2180  0.0  0.0      0     0 ?        -    23:09   0:00 [kworker/1:2-rcu]
+root          -  0.0    -      -     - -        I    23:09   0:00 -
+yaoxiao    2244  0.0  0.1 204604  3324 ?        -    23:09   0:00 /usr/lib/gvfs/gvfsd-metadata CLUTTER_IM_MODULE=xim DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus DESKTOP_SESSION=ubuntu DISPLAY=:0 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated GNOME_SHELL_SESSION_MODE=ubuntu GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GTK_IM_MODULE=ibus GTK_MODULES=gail:atk-bridge HOME=/home/yaoxiao IM_CONFIG_PHASE=2 LANG=zh_CN.UTF-8 LANGUAGE=zh_CN:zh LC_ADDRESS=en_CA.UTF-8 LC_IDENTIFICATION=en_CA.UTF-8 LC_MEASUREMENT=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 LC_NAME=en_CA.UTF-8 LC_NUMERIC=en_CA.UTF-8 LC_PAPER=en_CA.UTF-8 LC_TELEPHONE=en_CA.UTF-8 LC_TIME=en_CA.UTF-8 LOGNAME=yaoxiao PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PWD=/home/yaoxiao QT4_IM_MODULE=xim QT_ACCESSIBILITY=1 QT_IM_MODULE=xim SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 SHELL=/bin/bash SHLVL=0 SSH_AGENT_PID=1362 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh TEXTDOMAIN=im-config TEXTDOMAINDIR=/usr/share/locale/ USER=yaoxiao USERNAME=yaoxiao WINDOWPATH=1 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg XDG_CURRENT_DESKTOP=ubuntu:GNOME XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_MENU_PREFIX=gnome- XDG_RUNTIME_DIR=/run/user/1000 XDG_SEAT=seat0 XDG_SESSION_DESKTOP=ubuntu XDG_SESSION_ID=1 XDG_SESSION_TYPE=x11 XDG_VTNR=1 XMODIFIERS=@im=ibus _=/usr/bin/dbus-update-activation-environment MANAGERPID=896 INVOCATION_ID=ee4ceffd7d2f4525998889f181fc20fc JOURNAL_STREAM=9:59428
+yaoxiao       -  0.0    -      -     - -        Ssl  23:09   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  23:09   0:00 -
+yaoxiao       -  0.0    -      -     - -        Ssl  23:09   0:00 -
+root       2253  0.1  0.0      0     0 ?        -    23:10   0:00 [kworker/u256:1-]
+root          -  0.1    -      -     - -        R    23:10   0:00 -
+root       2279  0.0  0.0      0     0 ?        -    23:15   0:00 [kworker/u256:0-]
+root          -  0.0    -      -     - -        I    23:15   0:00 -
+root       2334  0.0  0.0      0     0 ?        -    23:16   0:00 [kworker/0:1-eve]
+root          -  0.0    -      -     - -        I    23:16   0:00 -
+root       2335  0.0  0.0      0     0 ?        -    23:16   0:00 [kworker/0:3-eve]
+root          -  0.0    -      -     - -        I    23:16   0:00 -
+root       2339  0.0  0.0      0     0 ?        -    23:16   0:00 [loop17]
+root          -  0.0    -      -     - -        S<   23:16   0:00 -
+root       2377  0.0  0.0      0     0 ?        -    23:16   0:00 [kworker/0:4-eve]
+root          -  0.0    -      -     - -        I    23:16   0:00 -
+root       2378  0.0  0.0      0     0 ?        -    23:16   0:00 [kworker/0:5-eve]
+root          -  0.0    -      -     - -        I    23:16   0:00 -
+root       2397  0.0  0.2  46908  3980 pts/0    -    23:20   0:00 ps auxwwem CLUTTER_IM_MODULE=xim LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36: LC_MEASUREMENT=en_CA.UTF-8 LESSCLOSE=/usr/bin/lesspipe %s %s LC_PAPER=en_CA.UTF-8 LC_MONETARY=en_CA.UTF-8 XDG_MENU_PREFIX=gnome- LANG=zh_CN.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu COLORTERM=truecolor USERNAME=yaoxiao XDG_VTNR=1 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh LC_NAME=en_CA.UTF-8 XDG_SESSION_ID=2 USER=root DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/9c0f63a9_761f_4d3c_88e1_5d9c2de25312 PWD=/home/yaoxiao HOME=/root TEXTDOMAIN=im-config SSH_AGENT_PID=1362 QT_ACCESSIBILITY=1 XDG_SESSION_TYPE=x11 XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop XDG_SESSION_DESKTOP=ubuntu LC_ADDRESS=en_CA.UTF-8 GJS_DEBUG_OUTPUT=stderr LC_NUMERIC=en_CA.UTF-8 GTK_MODULES=gail:atk-bridge MAIL=/var/mail/root WINDOWPATH=1 VTE_VERSION=5202 SHELL=/bin/bash TERM=xterm-256color QT_IM_MODULE=xim XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=ubuntu:GNOME GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 GNOME_TERMINAL_SERVICE=:1.60 SHLVL=2 XDG_SEAT=seat0 LANGUAGE=zh_CN:zh LC_TELEPHONE=en_CA.UTF-8 GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated LOGNAME=root DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/0 XAUTHORITY=/run/user/1000/gdm/Xauthority XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games LC_IDENTIFICATION=en_CA.UTF-8 GJS_DEBUG_TOPICS=JS ERROR;JS LOG SESSION_MANAGER=local/yaoxiao-virtual-machine:@/tmp/.ICE-unix/1143,unix/yaoxiao-virtual-machine:/tmp/.ICE-unix/1143 LESSOPEN=| /usr/bin/lesspipe %s GTK_IM_MODULE=ibus LC_TIME=en_CA.UTF-8 _=/bin/ps
+root          -  0.0    -      -     - -        R+   23:20   0:00 -
+
